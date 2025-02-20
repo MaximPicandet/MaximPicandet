@@ -1,4 +1,7 @@
-## Hi there 👋
+About Me
+- Hi, I'm @MaximPicandet
+- currently studying meteorology at UHH
+- interested in weather, climate and table tennis
 
 <!--
 **MaximPicandet/MaximPicandet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
